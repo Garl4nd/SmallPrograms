@@ -1,0 +1,342 @@
+1	Hl. m. Praha	1	Richterová Olga PhDr. Ph.D.	36	Piráti	Piráti	32 888	23,14	*	1
+1	Hl. m. Praha	2	Michálek Jakub Mgr. et Mgr.	32	Piráti	Piráti	13 613	9,57	*	6
+1	Hl. m. Praha	3	Lacina Jan Mgr.	51	STAN	STAN	26 117	18,37	*	2
+1	Hl. m. Praha	4	Profant Ondřej	33	Piráti	Piráti	9 613	6,76	-	2
+1	Hl. m. Praha	5	Lipavský Jan Bc.	36	Piráti	Piráti	5 337	3,75	-	6
+1	Hl. m. Praha	6	Mazur Daniel RNDr. Ph.D.	43	Piráti	Piráti	3 060	2,15	-	7
+1	Hl. m. Praha	7	Balaš Vladimír doc. JUDr. CSc.	62	STAN	STAN	21 241	14,94	*	3
+1	Hl. m. Praha	8	Zábranský Adam Mgr.	27	Piráti	Piráti	7 216	5,07	-	5
+1	Hl. m. Praha	9	Chrást Ondřej Mgr.	41	Piráti	Piráti	1 296	0,91	-	8
+1	Hl. m. Praha	10	Tylová Eva Ing.	61	Piráti	BEZPP	10 921	7,68	-	1
+1	Hl. m. Praha	11	Bělor Roman Ing.	63	STAN	STAN	14 837	10,44	*	5
+1	Hl. m. Praha	12	Balcarová Dana Ing.	61	Piráti	Piráti	9 186	6,46	-	3
+1	Hl. m. Praha	13	Marušiaková Věra Mgr.	51	Piráti	Piráti	3 631	2,55	-	9
+1	Hl. m. Praha	14	Vislous Václav MSc.	33	Piráti	Piráti	754	0,53	-	10
+1	Hl. m. Praha	15	Rattay Štěpán Ing.	44	Piráti	Piráti	1 568	1,10	-	11
+1	Hl. m. Praha	16	Voborská Milada Mgr.	49	STAN	STAN	19 323	13,59	*	4
+1	Hl. m. Praha	17	Kabelová Jana	62	Piráti	Piráti	917	0,64	-	12
+1	Hl. m. Praha	18	Křeček Pavel Mgr.	39	STAN	STAN	6 206	4,36	-	13
+1	Hl. m. Praha	19	Tichá Eva Ing.	59	Piráti	Piráti	1 582	1,11	-	14
+1	Hl. m. Praha	20	Klecanda Antonín Mgr. et Mgr.	40	STAN	STAN	8 068	5,67	-	4
+1	Hl. m. Praha	21	Lněničková Gabriela Ing. MBA	42	Piráti	Piráti	3 210	2,25	-	15
+1	Hl. m. Praha	22	Kosař Pavel Mgr.	35	STAN	STAN	2 531	1,78	-	16
+1	Hl. m. Praha	23	Doseděl František Mgr.	34	Piráti	Piráti	417	0,29	-	17
+1	Hl. m. Praha	24	Biskup Michal Ing.	49	STAN	STAN	3 216	2,26	-	18
+1	Hl. m. Praha	25	Valdmanová Magdalena	40	Piráti	Piráti	1 143	0,80	-	19
+1	Hl. m. Praha	26	Dušek David MgA.	52	STAN	STAN	1 844	1,29	-	20
+1	Hl. m. Praha	27	Vansa Tibor Mgr.	37	Piráti	Piráti	537	0,37	-	21
+1	Hl. m. Praha	28	Ečeková Maršálová Aneta	45	STAN	STAN	5 171	3,63	-	22
+1	Hl. m. Praha	29	Dostál Ondřej JUDr. Ph.D., LL.M.	42	Piráti	Piráti	1 772	1,24	-	23
+1	Hl. m. Praha	30	Hřebík Tomáš Ing. Ph.D.	41	STAN	STAN	2 642	1,85	-	24
+1	Hl. m. Praha	31	Soukup Bara Mgr.	33	Piráti	Piráti	3 253	2,28	-	25
+1	Hl. m. Praha	32	Arnotová Kateřina Mgr.	47	STAN	STAN	4 658	3,27	-	26
+1	Hl. m. Praha	33	Opletalová Magdalena Mgr. et Mgr.	53	Piráti	Piráti	2 846	2,00	-	27
+1	Hl. m. Praha	34	Soukupová Radka Ing.	60	STAN	STAN	6 023	4,23	-	28
+1	Hl. m. Praha	35	Horáková Eva Mgr.	41	Piráti	Piráti	1 857	1,30	-	29
+1	Hl. m. Praha	36	Kašpar David MgA.	44	STAN	STAN	3 497	2,46	-	30
+2	Středočeský	1	Rakušan Vít Mgr.	43	STAN	STAN	59 792	43,47	*	1
+2	Středočeský	2	Kocmanová Klára	28	Piráti	Piráti	10 186	7,40	*	6
+2	Středočeský	3	Kopřiva František	25	Piráti	Piráti	5 735	4,16	-	2
+2	Středočeský	4	Lochman Ondřej Mgr. Ph.D.	40	STAN	STAN	27 656	20,10	*	2
+2	Středočeský	5	Zandl Patrick	47	Piráti	Piráti	4 099	2,98	-	3
+2	Středočeský	6	Drtina Štěpán Mgr.	27	Piráti	Piráti	3 508	2,55	-	4
+2	Středočeský	7	Kovářová Věra Ing.	57	STAN	STAN	25 367	18,44	*	3
+2	Středočeský	8	Vanča Matouš Mgr. Bc. et Bc.	31	Piráti	BEZPP	1 362	0,99	-	5
+2	Středočeský	9	Poživilová Michailidu Dominika MgA.	41	Piráti	Piráti	3 642	2,64	-	6
+2	Středočeský	10	Exner Martin	57	STAN	STAN	14 984	10,89	*	5
+2	Středočeský	11	Karim Martin JUDr.	55	Piráti	Piráti	947	0,68	-	7
+2	Středočeský	12	Urbanová Barbora Ing.	30	STAN	STAN	19 969	14,51	*	4
+2	Středočeský	13	Lička Jan Ing.	40	Piráti	Piráti	759	0,55	-	8
+2	Středočeský	14	Polánský Adam Mgr.	31	STAN	STAN	5 923	4,30	-	9
+2	Středočeský	15	Tomáš Petr	51	Piráti	BEZPP	742	0,53	-	10
+2	Středočeský	16	Halada Petr	59	STAN	BEZPP	3 400	2,47	-	11
+2	Středočeský	17	Netušil Daniel Ing.	29	Piráti	Piráti	1 140	0,82	-	12
+2	Středočeský	18	Michl Marek	48	STAN	STAN	1 910	1,38	-	13
+2	Středočeský	19	Kubaljak Václav Bc.	32	Piráti	Piráti	602	0,43	-	14
+2	Středočeský	20	Doušová Silvia Mgr. Bc.	47	STAN	BEZPP	7 416	5,39	-	1
+2	Středočeský	21	Kvitová Tereza Bc.	35	Piráti	Piráti	2 601	1,89	-	15
+2	Středočeský	22	Balková Markéta	47	STAN	BEZPP	2 382	1,73	-	16
+2	Středočeský	23	Lehejček Jiří Mgr. Ing. Ph.D.	34	Piráti	Piráti	2 470	1,79	-	17
+2	Středočeský	24	Nechanický Pavel MUDr.	63	STAN	BEZPP	3 197	2,32	-	18
+2	Středočeský	25	Černohous Radek	55	Piráti	Piráti	242	0,17	-	19
+2	Středočeský	26	Křížová Miroslava Ing.	43	STAN	BEZPP	2 504	1,82	-	20
+2	Středočeský	27	Hažlinská Veronika Bc.	25	Piráti	Piráti	2 478	1,80	-	21
+2	Středočeský	28	Kadrnožka Martin Mgr.	48	STAN	BEZPP	2 139	1,55	-	22
+2	Středočeský	29	Lajbner Zdeněk RNDr. Ph.D.	43	Piráti	Piráti	618	0,44	-	23
+2	Středočeský	30	Semanský Rudolf	53	STAN	STAN	1 325	0,96	-	24
+2	Středočeský	31	Luftová Simona Mgr.	48	Piráti	Piráti	1 721	1,25	-	25
+2	Středočeský	32	Loskot Jiří	65	STAN	STAN	752	0,54	-	26
+2	Středočeský	33	Prokop Jan	40	Piráti	Piráti	718	0,52	-	27
+2	Středočeský	34	Pilát Lukáš MBA	36	STAN	STAN	1 543	1,12	-	28
+3	Jihočeský	1	Kolářík Lukáš	37	Piráti	Piráti	3 277	7,22	-	4
+3	Jihočeský	2	Vojtko Viktor Ing. Ph.D.	43	STAN	STAN	7 996	17,62	*	1
+3	Jihočeský	3	Soumar Josef	36	Piráti	Piráti	1 459	3,21	-	9
+3	Jihočeský	4	Kudláčková Zuzana	37	Piráti	Piráti	3 254	7,17	-	5
+3	Jihočeský	5	Pivoňka Vaňková Pavla Mgr. Ing.	44	STAN	STAN	7 618	16,79	*	2
+3	Jihočeský	6	Traore Júsuf Mgr. DiS.	39	Piráti	Piráti	1 679	3,70	-	10
+3	Jihočeský	7	Vostradovský Václav	50	STAN	STAN	5 574	12,28	-	1
+3	Jihočeský	8	Koláříková Jana Bc.	35	Piráti	Piráti	2 560	5,64	-	7
+3	Jihočeský	9	Pumpr Ondřej Mgr.	43	STAN	BEZPP	3 800	8,37	-	3
+3	Jihočeský	10	Kovářová Veronika Ing. arch.	39	Piráti	Piráti	2 294	5,05	-	8
+3	Jihočeský	11	Martanová Jaroslava Ing.	59	STAN	STAN	4 104	9,04	-	2
+3	Jihočeský	12	Kákona Martin Ing. Ph.D.	54	Piráti	Piráti	517	1,13	-	11
+3	Jihočeský	13	Šimánek Jiří Ing.	64	STAN	BEZPP	1 507	3,32	-	12
+3	Jihočeský	14	Guth Jarkovský Tomáš	25	Piráti	Piráti	971	2,14	-	13
+3	Jihočeský	15	Carda Dalibor Mgr.	65	STAN	BEZPP	1 995	4,39	-	14
+3	Jihočeský	16	Mareda Martin Mgr.	45	Piráti	Piráti	712	1,56	-	15
+3	Jihočeský	17	Němeček Milan	50	STAN	BEZPP	1 229	2,70	-	16
+3	Jihočeský	18	Hošek Jan Bc.	38	Piráti	Piráti	609	1,34	-	17
+3	Jihočeský	19	Houdek Pavel Ing.	58	STAN	BEZPP	1 427	3,14	-	18
+3	Jihočeský	20	Klecanda Václav Mgr.	38	Piráti	Piráti	771	1,69	-	19
+3	Jihočeský	21	Mádl Jan Ing.	36	STAN	ČiB	2 756	6,07	-	6
+3	Jihočeský	22	Roubíček Jiří Ing.	35	Piráti	Piráti	429	0,94	-	20
+4	Plzeňský	1	Bernard Josef Ing.	56	STAN	BEZPP	8 499	21,13	*	2
+4	Plzeňský	2	Kůs Daniel Mgr.	47	Piráti	Piráti	3 353	8,33	-	4
+4	Plzeňský	3	Bartoň Lukáš Ing. Ph.D.	40	Piráti	Piráti	3 686	9,16	-	3
+4	Plzeňský	4	Rezek Jiří Ing. Ph.D.	38	Piráti	Piráti	2 357	5,86	-	6
+4	Plzeňský	5	Opltová Michaela Ing.	36	STAN	STAN	8 999	22,38	*	1
+4	Plzeňský	6	Šrámek Pavel	30	Piráti	Piráti	1 430	3,55	-	9
+4	Plzeňský	7	Bostl Jan Ing.	46	STAN	STAN	4 904	12,19	-	2
+4	Plzeňský	8	Bosák Pavel	51	Piráti	Piráti	629	1,56	-	10
+4	Plzeňský	9	Čížek Pavel Ing.	57	STAN	STAN	5 233	13,01	-	1
+4	Plzeňský	10	Tomšíková Jana Mgr.	52	Piráti	Piráti	2 081	5,17	-	8
+4	Plzeňský	11	Picka Libor Ing.	57	STAN	STAN	2 139	5,31	-	7
+4	Plzeňský	12	Sejrková Olga Mgr.	41	Piráti	Piráti	1 570	3,90	-	11
+4	Plzeňský	13	Vavřička Jan Ing.	65	STAN	STAN	1 212	3,01	-	12
+4	Plzeňský	14	Hais Pavel	38	Piráti	Piráti	916	2,27	-	13
+4	Plzeňský	15	Němečková Martina Mgr.	54	STAN	BEZPP	2 786	6,92	-	5
+4	Plzeňský	16	Šrámková Jindřiška	55	Piráti	Piráti	395	0,98	-	14
+4	Plzeňský	17	Bernard Václav Bc.	45	STAN	STAN	1 756	4,36	-	15
+4	Plzeňský	18	Habruň Marek Ing.	32	Piráti	Piráti	529	1,31	-	16
+4	Plzeňský	19	Kočí Václav	67	STAN	BEZPP	876	2,17	-	17
+4	Plzeňský	20	Krejčí Radek Bc.	29	Piráti	Piráti	829	2,06	-	18
+5	Karlovarský	1	Třešňák Petr Ing.	38	Piráti	Piráti	2 298	12,39	-	2
+5	Karlovarský	2	Kuchař Jan	47	STAN	STAN	3 562	19,20	*	1
+5	Karlovarský	3	Adamec Vítězslav Mgr. DiS.	30	Piráti	Piráti	1 493	8,05	-	7
+5	Karlovarský	4	Klsák Jiří Mgr.	67	STAN	STAN	2 993	16,13	-	1
+5	Karlovarský	5	Kassl Nikola Mgr.	33	Piráti	Piráti	1 383	7,45	-	8
+5	Karlovarský	6	Krása Petr Ing.	46	STAN	STAN	2 253	12,14	-	3
+5	Karlovarský	7	Vaněk Bohdan Ing. M.A.	47	Piráti	Piráti	696	3,75	-	10
+5	Karlovarský	8	Javůrek Štěpán	34	STAN	STAN	2 116	11,40	-	4
+5	Karlovarský	9	Pavlovic Josef Bc.	37	Piráti	Piráti	395	2,12	-	11
+5	Karlovarský	10	Mašková Markéta Mgr.	33	STAN	STAN	2 044	11,02	-	5
+5	Karlovarský	11	Bílá Daniela	51	Piráti	Piráti	469	2,52	-	12
+5	Karlovarský	12	Tyrpekl Karel MUDr.	58	STAN	STAN	1 946	10,49	-	6
+5	Karlovarský	13	Monsportová Markéta	49	Piráti	Piráti	879	4,73	-	13
+5	Karlovarský	14	Gajičová Petra Ing.	50	STAN	STAN	1 290	6,95	-	9
+6	Ústecký	1	Bartoš Ivan PhDr. Ph.D.	41	Piráti	Piráti	14 646	27,74	*	1
+6	Ústecký	2	Blažej Lukáš	25	Piráti	Piráti	3 830	7,25	-	5
+6	Ústecký	3	Liška Petr Ing.	51	STAN	STAN	9 227	17,47	*	2
+6	Ústecký	4	Stojanová Kateřina	23	Piráti	Piráti	5 528	10,47	-	3
+6	Ústecký	5	Šťovíček Milan Mgr.	63	STAN	STAN	6 862	12,99	-	2
+6	Ústecký	6	Navrkal František Bc.	29	Piráti	Piráti	2 069	3,91	-	8
+6	Ústecký	7	Oubrechtová Jana Mgr.	58	STAN	STAN	8 450	16,00	-	1
+6	Ústecký	8	Rousová Šárka	35	Piráti	Piráti	2 201	4,16	-	9
+6	Ústecký	9	Holec Robert	32	STAN	STAN	4 797	9,08	-	4
+6	Ústecký	10	Kranda Jan Mgr.	47	Piráti	Piráti	813	1,53	-	10
+6	Ústecký	11	Černý Daniel Ing.	48	STAN	BEZPP	2 508	4,75	-	11
+6	Ústecký	12	Vlach Vladimír	45	Piráti	Piráti	336	0,63	-	12
+6	Ústecký	13	Syslová Jana	47	STAN	STAN	3 141	5,94	-	7
+6	Ústecký	14	Pelzmann Schwarzová Michaela	35	Piráti	Piráti	473	0,89	-	13
+6	Ústecký	15	Rejšková Lada Ing.	36	STAN	STAN	3 301	6,25	-	6
+6	Ústecký	16	Mareš Jan Bc.	31	Piráti	Piráti	680	1,28	-	14
+6	Ústecký	17	Špička Jaroslav	39	STAN	BEZPP	1 424	2,69	-	15
+6	Ústecký	18	Kindl František	68	Piráti	Piráti	228	0,43	-	16
+6	Ústecký	19	Sazeček Tomáš Ing.	34	STAN	STAN	1 906	3,61	-	17
+6	Ústecký	20	Stibalová Kateřina Mgr.	44	Piráti	BEZPP	2 178	4,12	-	18
+6	Ústecký	21	Marvan Vojtěch Mgr.	34	STAN	STAN	1 285	2,43	-	19
+6	Ústecký	22	Fuxová Barbora Bc. DiS.	32	Piráti	Piráti	1 035	1,96	-	20
+6	Ústecký	23	Šimek Jan	50	STAN	STAN	935	1,77	-	21
+6	Ústecký	24	Nadolecki Pavel Ing.	39	Piráti	Piráti	242	0,45	-	22
+6	Ústecký	25	Vejvalka Petr Ing.	49	STAN	STAN	570	1,07	-	23
+6	Ústecký	26	Štěpánek Zdeněk Bc.	38	Piráti	Piráti	410	0,77	-	24
+7	Liberecký	1	Farský Jan Mgr.	42	STAN	STAN	15 479	32,69	*	1
+7	Liberecký	2	Martínek Tomáš Ing.	35	Piráti	Piráti	3 853	8,13	-	5
+7	Liberecký	3	Berki Jan Mgr. Ph.D.	40	STAN	SLK	12 266	25,90	*	2
+7	Liberecký	4	Förster Marek	45	Piráti	Piráti	2 012	4,24	-	10
+7	Liberecký	5	Tulpa Petr Mgr.	63	STAN	SLK	8 207	17,33	-	2
+7	Liberecký	6	Weissová Daniela	60	Piráti	Piráti	3 235	6,83	-	7
+7	Liberecký	7	Levko Jarmila Ing.	52	STAN	SLK	9 601	20,27	-	1
+7	Liberecký	8	Vondráková Helena Mgr.	39	Piráti	Piráti	2 086	4,40	-	11
+7	Liberecký	9	Demčák Jaroslav	43	STAN	SLK	5 704	12,04	-	3
+7	Liberecký	10	Patočka Bronislav Ing.	33	Piráti	BEZPP	1 712	3,61	-	12
+7	Liberecký	11	Dvořák Jaromír Mgr.	60	STAN	SLK	2 971	6,27	-	8
+7	Liberecký	12	Židek Václav	41	Piráti	Piráti	591	1,24	-	13
+7	Liberecký	13	Brychcí Jiřina Ing.	56	STAN	BEZPP	2 835	5,98	-	9
+7	Liberecký	14	Mečíř Vojtěch Mgr.	32	Piráti	Piráti	620	1,30	-	14
+7	Liberecký	15	Pohanka Lukáš	43	STAN	SLK	4 350	9,18	-	4
+7	Liberecký	16	Kafka Miloslav	21	Piráti	Piráti	794	1,67	-	15
+7	Liberecký	17	Lípa Radek Ing.	41	STAN	SLK	3 676	7,76	-	6
+8	Královéhradecký	1	Jiránek Martin Ing.	43	Piráti	Piráti	3 090	6,93	-	4
+8	Královéhradecký	2	Cogan Josef Mgr.	48	STAN	STAN	9 181	20,60	*	2
+8	Královéhradecký	3	Čepelka Michal MgA.	35	Piráti	Piráti	2 513	5,64	-	7
+8	Královéhradecký	4	Jiroušek Filip PhDr. Mgr.	26	Piráti	Piráti	2 671	5,99	-	5
+8	Královéhradecký	5	Dvořák Martin Ing.	64	STAN	STAN	7 961	17,86	-	1
+8	Královéhradecký	6	Hoder Jan Mgr.	37	Piráti	Piráti	1 524	3,42	-	9
+8	Královéhradecký	7	Potůčková Lucie Mgr.	46	STAN	STAN	10 910	24,48	*	1
+8	Královéhradecký	8	Bureš Filip Bc.	30	Piráti	Piráti	552	1,23	-	10
+8	Královéhradecký	9	Rejzl Jan Mgr.	39	STAN	STAN	4 770	10,70	-	2
+8	Královéhradecký	10	Jeništa Petr Ing.	44	Piráti	BEZPP	645	1,44	-	11
+8	Královéhradecký	11	Hlavatý Matěj	27	STAN	STAN	3 401	7,63	-	3
+8	Královéhradecký	12	Kořínek Dušan Ing. Ph.D.	57	Piráti	Piráti	401	0,90	-	12
+8	Královéhradecký	13	Pohanková Ludmila Ing.	67	STAN	BEZPP	2 197	4,93	-	13
+8	Královéhradecký	14	Dvorský Jaroslav Mgr.	58	Piráti	BEZPP	668	1,49	-	14
+8	Královéhradecký	15	Volt Adam Bc.	25	STAN	STAN	1 724	3,86	-	15
+8	Královéhradecký	16	Vrbický Pavel Ing.	53	Piráti	Piráti	610	1,36	-	16
+8	Královéhradecký	17	Vávra Michal PhDr.	43	STAN	STAN	2 619	5,87	-	6
+8	Královéhradecký	18	Ungerová Anna MVDr.	35	Piráti	Piráti	2 403	5,39	-	8
+8	Královéhradecký	19	Horáček Josef	47	STAN	STAN	2 103	4,72	-	17
+8	Královéhradecký	20	Bartoš Václav MgA.	36	Piráti	Piráti	1 279	2,87	-	18
+9	Pardubický	1	Ferjenčík Mikuláš Bc.	34	Piráti	Piráti	4 194	10,85	-	2
+9	Pardubický	2	Hájek Jiří Ing.	60	STAN	STAN	6 554	16,96	*	2
+9	Pardubický	3	Vévodová Libuše Mgr.	64	Piráti	Piráti	2 458	6,36	-	8
+9	Pardubický	4	Bidlová Jitka Ing. arch. Ph.D.	43	Piráti	Piráti	3 617	9,36	-	4
+9	Pardubický	5	Dubský Tomáš	48	STAN	STAN	6 825	17,66	*	1
+9	Pardubický	6	Nunvář Aleš Ing.	42	Piráti	Piráti	1 443	3,73	-	10
+9	Pardubický	7	Šimek David	42	STAN	STAN	5 030	13,02	-	1
+9	Pardubický	8	Procházková Lucie JUDr. Ph.D.	36	Piráti	BEZPP	3 071	7,95	-	5
+9	Pardubický	9	Koblížek Oldřich	63	STAN	STAN	3 885	10,05	-	3
+9	Pardubický	10	Böhmová Ivana Bc. et Bc.	34	Piráti	Piráti	2 570	6,65	-	7
+9	Pardubický	11	Paurová Alice Bc.	51	STAN	STAN	2 716	7,03	-	6
+9	Pardubický	12	Grosskopf Tomáš Mgr.	39	Piráti	Piráti	640	1,65	-	11
+9	Pardubický	13	Mlynář Zdeněk Ing.	29	STAN	STAN	1 513	3,91	-	12
+9	Pardubický	14	Lainz Jaroslav Mgr. DiS.	44	Piráti	Piráti	463	1,19	-	13
+9	Pardubický	15	Lesák Marcel Ing.	57	STAN	STAN	1 636	4,23	-	14
+9	Pardubický	16	Bečka Dominik Ing.	30	Piráti	Piráti	475	1,22	-	15
+9	Pardubický	17	Doležal Matěj	24	STAN	STAN	2 179	5,64	-	9
+9	Pardubický	18	Vácha Vladek	41	Piráti	Piráti	427	1,10	-	16
+9	Pardubický	19	Moravec Ivan Ing.	60	STAN	STAN	1 418	3,67	-	17
+10	Vysočina	1	Lednická Blanka Bc.	40	Piráti	Piráti	2 811	7,50	-	5
+10	Vysočina	2	Vlček Lukáš Ing.	39	STAN	STAN	8 074	21,55	*	1
+10	Vysočina	3	Pošvář Jan Bc.	36	Piráti	Piráti	1 632	4,35	-	8
+10	Vysočina	4	Slabý Miloň Ing.	46	STAN	BEZPP	5 061	13,51	-	1
+10	Vysočina	5	Vácha Miroslav DiS.	37	Piráti	Piráti	1 473	3,93	-	9
+10	Vysočina	6	Kuchyňa Libor	34	STAN	BEZPP	4 926	13,15	-	2
+10	Vysočina	7	Vidláková Viktorie Bc.	23	Piráti	Piráti	1 734	4,63	-	10
+10	Vysočina	8	Navrátil Zdeněk Mgr.	45	STAN	BEZPP	3 748	10,00	-	4
+10	Vysočina	9	Nováková Eva	40	Piráti	Piráti	1 359	3,62	-	11
+10	Vysočina	10	Šafránek David Mgr. Bc.	34	STAN	BEZPP	1 919	5,12	-	7
+10	Vysočina	11	Pašek Roman	28	Piráti	Piráti	880	2,34	-	12
+10	Vysočina	12	Koubová Karolína MgA.	36	STAN	BEZPP	4 031	10,76	-	3
+10	Vysočina	13	Svoboda Jiří Bc.	37	Piráti	Piráti	610	1,62	-	13
+10	Vysočina	14	Hnik Josef	70	STAN	BEZPP	506	1,35	-	14
+10	Vysočina	15	Honzl Václav Ing. Mgr.	44	Piráti	Piráti	389	1,03	-	15
+10	Vysočina	16	Mrkos Martin Ing. ACCA	37	STAN	STAN	2 298	6,13	-	6
+10	Vysočina	17	Šimková Markéta Mgr.	55	Piráti	Piráti	829	2,21	-	16
+10	Vysočina	18	Elicer David Mgr.	44	STAN	BEZPP	534	1,42	-	17
+10	Vysočina	19	Pokorná Barbora	30	Piráti	Piráti	763	2,03	-	18
+10	Vysočina	20	Hájek Pavel Ing.	42	STAN	BEZPP	1 063	2,83	-	19
+11	Jihomoravský	1	Holomčík Radek Mgr.	36	Piráti	Piráti	7 069	7,97	-	1
+11	Jihomoravský	2	Krutáková Jana Ing.	59	STAN	STAN	17 091	19,28	*	1
+11	Jihomoravský	3	Vymazal Tomáš	31	Piráti	Piráti	4 701	5,30	-	3
+11	Jihomoravský	4	Marciniszyn Michal Mgr.	42	Piráti	Piráti	2 535	2,86	-	4
+11	Jihomoravský	5	Nevrkla Pavel Mgr.	35	Piráti	Piráti	2 185	2,46	-	5
+11	Jihomoravský	7	Hájek Martin Mgr.	51	STAN	STAN	12 537	14,14	*	2
+11	Jihomoravský	8	Vyplel Adam Ing.	27	Piráti	Piráti	1 699	1,91	-	6
+11	Jihomoravský	9	Musilová Radka Bc.	34	Piráti	Piráti	6 421	7,24	-	2
+11	Jihomoravský	10	Flek Josef Mgr.	33	STAN	STAN	10 337	11,66	*	4
+11	Jihomoravský	11	Vítek Filip	41	Piráti	Piráti	826	0,93	-	7
+11	Jihomoravský	12	Quittová Petra Bc.	49	STAN	STAN	11 603	13,09	*	3
+11	Jihomoravský	13	Boxan Martin Bc.	40	Piráti	Piráti	748	0,84	-	8
+11	Jihomoravský	14	Ulbrich Michael Bc.	29	STAN	STAN	3 619	4,08	-	9
+11	Jihomoravský	15	Doležal Lukáš Bc.	32	Piráti	Piráti	1 034	1,16	-	10
+11	Jihomoravský	16	Staněk Rudolf Ing. Mgr.	58	STAN	STAN	2 247	2,53	-	11
+11	Jihomoravský	17	Křížka Vít Mgr.	33	Piráti	Piráti	630	0,71	-	12
+11	Jihomoravský	18	David Lukáš Mgr.	43	STAN	STAN	1 229	1,38	-	13
+11	Jihomoravský	19	Pastirčák Tomáš Mgr.	32	Piráti	Piráti	717	0,80	-	14
+11	Jihomoravský	20	Ďuriš Ondřej Mgr.	38	STAN	STAN	1 539	1,73	-	15
+11	Jihomoravský	21	Trávníková Anna	37	Piráti	Piráti	2 006	2,26	-	16
+11	Jihomoravský	22	Jelínek Ota Mgr.	51	STAN	STAN	1 206	1,36	-	17
+11	Jihomoravský	23	Hvižďová Kristýna Bc.	30	Piráti	Idealisté	2 946	3,32	-	18
+11	Jihomoravský	24	Hlubinka Jakub Ing.	30	STAN	STAN	1 901	2,14	-	19
+11	Jihomoravský	25	Doležal Patrik Bc.	49	Piráti	Piráti	212	0,23	-	20
+11	Jihomoravský	26	Málek Pavel Mgr.	44	STAN	STAN	1 226	1,38	-	21
+11	Jihomoravský	27	Turek Lahová Barbora Mgr.	33	Piráti	Piráti	2 013	2,27	-	22
+11	Jihomoravský	28	Jimramovský Filip Bc.	25	STAN	STAN	1 152	1,30	-	23
+11	Jihomoravský	29	Hanuš Dušan Mgr.	40	Piráti	Piráti	507	0,57	-	24
+11	Jihomoravský	30	Nohavicová Eliška Bc.	38	STAN	STAN	3 180	3,58	-	25
+11	Jihomoravský	31	Brodzák Jan Ing.	38	Piráti	Piráti	449	0,50	-	26
+11	Jihomoravský	32	Kunát Jan Ing. Ph.D.	49	STAN	STAN	645	0,72	-	27
+11	Jihomoravský	33	Zemek Adam Mgr.	30	Piráti	Piráti	715	0,80	-	28
+11	Jihomoravský	34	Kuchyňka Jan	62	STAN	STAN	782	0,88	-	29
+12	Olomoucký	1	Müller Tomáš Ing.	55	STAN	STAN	6 461	16,10	*	2
+12	Olomoucký	2	Pikal Vojtěch Bc.	34	Piráti	Piráti	3 836	9,56	-	3
+12	Olomoucký	3	Tichák Viktor Mgr. Ph.D.	31	Piráti	Piráti	3 121	7,77	-	5
+12	Olomoucký	4	Horký Jaromír	23	Piráti	Piráti	1 509	3,76	-	6
+12	Olomoucký	5	Naiclerová Hana Ing. MBA	49	STAN	STAN	7 855	19,57	*	1
+12	Olomoucký	6	Šmída Martin Ing. et Ing.	36	Piráti	Piráti	1 819	4,53	-	7
+12	Olomoucký	7	Machová Eva Mgr.	64	STAN	STAN	5 060	12,61	-	1
+12	Olomoucký	8	Ondrůj Pavel	49	Piráti	BEZPP	572	1,42	-	8
+12	Olomoucký	9	Ondra Michal Ing. Bc.	36	STAN	STAN	4 471	11,14	-	2
+12	Olomoucký	10	Spáčilová Lucie	40	Piráti	Piráti	1 821	4,53	-	9
+12	Olomoucký	11	Frantík Michal	44	STAN	STAN	1 466	3,65	-	10
+12	Olomoucký	12	Jüngling Lenka Ing.	32	Piráti	Piráti	1 510	3,76	-	11
+12	Olomoucký	13	Kašparová Zdena	22	STAN	STAN	3 782	9,42	-	4
+12	Olomoucký	14	Šrejma Robert PharmDr.	29	Piráti	Piráti	665	1,65	-	12
+12	Olomoucký	15	Ošťádal Petr Mgr.	47	STAN	STAN	1 766	4,40	-	13
+12	Olomoucký	16	Moskal Ondřej Bc.	23	Piráti	Piráti	796	1,98	-	14
+12	Olomoucký	17	Daněk Petr Ing. arch.	41	STAN	STAN	1 376	3,42	-	15
+12	Olomoucký	18	Žák Zdeněk	44	Piráti	Piráti	248	0,61	-	16
+12	Olomoucký	19	Dohnal Marek Ing.	45	STAN	STAN	1 141	2,84	-	17
+12	Olomoucký	20	Knápek Jakub Mgr.	47	Piráti	Piráti	984	2,45	-	18
+12	Olomoucký	21	Potužák Zdeněk Ing.	65	STAN	STAN	565	1,40	-	19
+12	Olomoucký	22	Schwarzová Lucie	32	Piráti	Piráti	927	2,31	-	20
+12	Olomoucký	23	Šimek Petr Ing.	35	STAN	STAN	1 269	3,16	-	21
+13	Zlínský	1	Elfmark František Bc. DiS.	42	Piráti	Piráti	2 988	7,09	-	5
+13	Zlínský	2	Gazdík Petr Mgr.	47	STAN	STAN	9 076	21,54	*	1
+13	Zlínský	3	Třos Zdeněk	39	Piráti	Piráti	1 757	4,17	-	9
+13	Zlínský	4	Olšáková Eliška Mgr.	53	STAN	STAN	8 267	19,62	*	2
+13	Zlínský	5	Houser Marek	32	Piráti	Piráti	2 448	5,81	-	7
+13	Zlínský	6	Pifka Tomáš Ing.	40	STAN	STAN	4 219	10,01	-	2
+13	Zlínský	7	Zach Jakub Ing. arch.	37	Piráti	Piráti	1 672	3,96	-	10
+13	Zlínský	8	Zábranský Martin Mgr.	47	STAN	STAN	4 626	10,98	-	1
+13	Zlínský	9	Fišerová Zuzana Ing. Mgr. Ph.D.	41	Piráti	Piráti	3 756	8,91	-	4
+13	Zlínský	10	Francová Kateřina Bc.	47	STAN	STAN	4 067	9,65	-	3
+13	Zlínský	11	Maňásek Pavel Ing.	50	Piráti	Piráti	256	0,60	-	11
+13	Zlínský	12	Galatík Petr Ing.	57	STAN	STAN	1 158	2,74	-	12
+13	Zlínský	13	Shaw Salajová Monika M.Sc.	34	Piráti	SEN 21	1 098	2,60	-	13
+13	Zlínský	14	Chmela Tomáš Mgr.	38	STAN	STAN	1 861	4,41	-	14
+13	Zlínský	15	Čabla Tomáš	42	Piráti	Piráti	374	0,88	-	15
+13	Zlínský	16	Horváth Zbyněk Ziggy	51	STAN	STAN	1 089	2,58	-	16
+13	Zlínský	17	Koudela Adam	25	Piráti	Piráti	425	1,00	-	17
+13	Zlínský	18	Havela Josef Mgr.	47	STAN	STAN	1 228	2,91	-	18
+13	Zlínský	19	Knotek Jiří Bc.	23	Piráti	Piráti	729	1,73	-	19
+13	Zlínský	20	Michálek Petr MgA.	44	STAN	STAN	2 979	7,07	-	6
+13	Zlínský	21	Grós Jakub Mgr.	33	Piráti	BEZPP	775	1,84	-	20
+13	Zlínský	22	Fukalová Helena MUDr.	59	STAN	STAN	2 363	5,61	-	8
+14	Moravskoslezský	1	Černohorský Lukáš Ing.	36	Piráti	Piráti	4 845	7,52	-	2
+14	Moravskoslezský	2	Polanský Ondřej Ing.	37	Piráti	Piráti	2 970	4,61	-	6
+14	Moravskoslezský	3	Galuszka Daniel Bc.	26	Piráti	Piráti	2 105	3,26	-	7
+14	Moravskoslezský	4	Letocha Petr	37	STAN	STAN	5 671	8,80	*	3
+14	Moravskoslezský	5	Murzynová Veronika	35	Piráti	Piráti	3 687	5,72	-	5
+14	Moravskoslezský	6	Brňáková Hana Bc.	49	Piráti	Piráti	2 877	4,46	-	8
+14	Moravskoslezský	7	Hoffmannová Andrea Mgr. Ph.D.	38	Piráti	Piráti	4 461	6,92	-	4
+14	Moravskoslezský	8	Lipner Jan Ing.	56	STAN	STAN	5 569	8,64	-	1
+14	Moravskoslezský	9	Tichý Jakub Bc. et Bc.	36	Piráti	Piráti	1 579	2,45	-	9
+14	Moravskoslezský	10	Rataj Michael PhDr. Ph.D.	52	STAN	STAN	6 225	9,66	*	2
+14	Moravskoslezský	11	Babic Marian Mgr.	39	Piráti	Piráti	432	0,67	-	10
+14	Moravskoslezský	12	Machalová Vladimíra Mgr.	53	STAN	STAN	4 583	7,11	-	3
+14	Moravskoslezský	13	Klocová Alena Mgr.	53	Piráti	Piráti	869	1,34	-	11
+14	Moravskoslezský	14	Šebelová Michaela Mgr.	39	STAN	STAN	6 293	9,76	*	1
+14	Moravskoslezský	15	Rédr Martin Mgr.	45	Piráti	Piráti	482	0,74	-	12
+14	Moravskoslezský	16	Martiňák Petr Ing.	59	STAN	STAN	1 923	2,98	-	13
+14	Moravskoslezský	17	Nováčková Pavlína Bc.	33	Piráti	Piráti	1 138	1,76	-	14
+14	Moravskoslezský	18	Kubný Lukáš Ing.	41	STAN	STAN	1 911	2,96	-	15
+14	Moravskoslezský	19	Branná Bára BcA.	25	Piráti	BEZPP	1 818	2,82	-	16
+14	Moravskoslezský	20	Jureček Jiří Mgr.	41	STAN	STAN	1 736	2,69	-	17
+14	Moravskoslezský	21	Žídek Arnošt Mgr. Ph.D.	45	Piráti	BEZPP	710	1,10	-	18
+14	Moravskoslezský	22	Němeček Lukáš	38	STAN	STAN	859	1,33	-	19
+14	Moravskoslezský	23	Kravčík Radim Mgr.	41	Piráti	Piráti	600	0,93	-	20
+14	Moravskoslezský	24	Šigut Roman Mgr. Bc.	44	STAN	STAN	842	1,30	-	21
+14	Moravskoslezský	25	Parchaňský Václav Ing. Ph.D.	33	Piráti	Piráti	747	1,15	-	22
+14	Moravskoslezský	26	Kapková Šárka Mgr.	55	STAN	STAN	1 166	1,81	-	23
+14	Moravskoslezský	27	Davidová Michaela Mgr.	37	Piráti	Piráti	1 177	1,82	-	24
+14	Moravskoslezský	28	Szturc Jan	35	STAN	STAN	1 474	2,28	-	25
+14	Moravskoslezský	29	Breškovec Michael Ing.	43	Piráti	Piráti	303	0,47	-	26
+14	Moravskoslezský	30	Ligocká Andrea	39	STAN	STAN	1 143	1,77	-	27
+14	Moravskoslezský	31	Simkanič Radek Ing. DiS.	32	Piráti	Piráti	474	0,73	-	28
+14	Moravskoslezský	32	Bližňáková Hana PhDr.	52	STAN	STAN	1 207	1,87	-	29
+14	Moravskoslezský	33	Ručka Ondřej JUDr.	38	Piráti	Piráti	412	0,63	-	30
+14	Moravskoslezský	34	Sedlák Martin Ing.	54	STAN	STAN	377	0,58	-	31
+14	Moravskoslezský	35	Kupcová Zdeňka	46	Piráti	Piráti	272	0,42	-	32
+14	Moravskoslezský	36	Dostál Vítězslav	61	STAN	STAN	652	1,01	-	33
