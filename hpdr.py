@@ -70,7 +70,7 @@ def hpdr(grid,vals,ɑ=0.05):
     return mend_holes(grid,inds),q
 
 def plot_func_and_hpdr(grid,vals,ɑ=0.1):
-    intervals,q=hpdr(grid,vals,ɑ=0.1)
+    intervals,q=hpdr(grid,vals,ɑ=ɑ)
     plt.plot(grid,vals)
     #plt.scatter(xs,[q]*len(xs),c="red")
     for xmin,xmax in intervals:
@@ -92,11 +92,11 @@ def draw_arrows(grid,vals,xloc,dir,narr=4,scale=0.008):
         plt.arrow(xloc,yloc,size*(1 if dir=="right" else -1),0,head_length=0.8*size)
         
 
-grid=np.linspace(0,2*np.pi,10000)
+grid=np.linspace(0,np.pi,10000)
 func=comp(lambda x: x**2,np.sin,lambda x: 2*x) #sin(2x)^2
 vals=func(grid) #vyhodnocení 
 vals=vals/np.trapz(vals,grid) #
-plot_func_and_hpdr(grid,vals,ɑ=0.01)
+plot_func_and_hpdr(grid,vals,ɑ=0.32)
 #with MeasureTime():
 
 
